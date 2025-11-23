@@ -71,7 +71,7 @@ export default function Hero() {
             <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
           </button>
           <a
-            href="https://mystorage9155.blob.core.windows.net/mycontainer/Jake_s_Resume__Anonymous_%20(2).pdf"
+            href="https://anistorage9155.blob.core.windows.net/mycontainer/aniket_resume (1).pdf"
             target="_blank"
             rel="noopener noreferrer"
             className={`px-8 py-3 border border-primary/30 text-primary rounded-lg font-semibold hover:bg-primary/10 transition-all duration-1000 ${
